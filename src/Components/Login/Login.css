@@ -1,0 +1,29 @@
+h3 {
+    font-size: 30px;
+    color: rgb(24, 115, 128);
+    margin-top: 1rem;
+}
+
+.login-card {
+    display: flex;
+    flex-direction: column;
+    height: 16rem;
+    width: 25rem;
+    text-align: center;
+    margin: auto;
+    margin-top: 25vh;
+    border: solid 2px rgb(24, 115, 128);
+    border-radius: 30px;
+}
+
+.input {
+    margin: 10px;
+    height: 20px;
+    width: 200px;
+}
+
+.submit {
+    height: 25px;
+    width: 75px;
+    margin: 10px;
+}

@@ -1,0 +1,26 @@
+.navbar {
+    height: 50px;
+    width: 100%;
+    background-color: rgb(126, 202, 212);
+    border-bottom: solid 2px rgb(24, 115, 128);
+    display: flex;
+}
+
+.navbar-list {
+    list-style: none;
+    margin-top: 0px;
+}
+
+.navbar-list li {
+    display: inline;
+    margin-left: 20px;
+}
+
+.navbar-list a {
+    text-decoration: none;
+    color: black;
+}
+
+.navbar-home {
+    font-size: 30px;
+}
